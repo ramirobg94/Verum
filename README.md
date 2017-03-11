@@ -1,9 +1,9 @@
 # Verum
 
 Clientes
-Los cliientes contienen:
-  La extenxión de navegador
-  La web SPA
+ Los clientes contienen:
+ La extenxión de navegador
+ La web SPA
   https://github.com/ramirobg94/fakenewsanalysisClients
   
 API-Backend
