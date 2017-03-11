@@ -1,5 +1,10 @@
 # Verum
 
+Autores: 
+Jose Antonio González Robles
+Ramiro Blázquez González
+
+
 Clientes
  Los clientes contienen:
  La extenxión de navegador
